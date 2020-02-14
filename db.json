@@ -1,0 +1,7 @@
+{
+  "users": [
+    { "id": 1, "username": "Fred Yao", "role": 1},
+    { "id": 2, "username": "Dex Kong", "role": 2},
+    { "id": 3, "username": "Qixiang Chao", "role": 2}
+  ]
+}
